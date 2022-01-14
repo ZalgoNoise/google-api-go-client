@@ -1,5 +1,12 @@
 # Changes
 
+## [0.66.0](https://github.com/googleapis/google-api-go-client/compare/v0.65.0...v0.66.0) (2022-01-14)
+
+
+### Features
+
+* **all:** auto-regenerate discovery clients, refs [#1394](https://github.com/googleapis/google-api-go-client/issues/1394)
+
 ## [0.65.0](https://github.com/googleapis/google-api-go-client/compare/v0.64.0...v0.65.0) (2022-01-11)
 
 
